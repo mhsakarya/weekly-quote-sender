@@ -1,7 +1,7 @@
 import smtplib
 
 # my_email = "mmanusx@gmail.com" # kendi email adresimi yazıyorum, mailin çıkış yapacağı adres
-# password = "161816181618mhs."
+# password = "*******"
 # connection = smtplib.SMTP("smtp.gmail.com") # smtp nesnesi yaratıp, gmaillin smtp server adresini giriyorum
 # connection.starttls() # tls = transport layer security// email server a bağlantıyı güvenliğe alıyor/ mesajı encrypt ediyor
 # connection.login(user=my_email, password=password) # bağlantıyı güvene aldıktansonra login olabiliriz
