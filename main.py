@@ -47,7 +47,7 @@ import smtplib
 now = dt.datetime.now()
 weekday = now.weekday()
 MY_EMAIL = "mmanusx@gmail.com"
-PASSWORD = "161816181618mhs."
+PASSWORD = "****"
 
 
 if weekday == 0:
